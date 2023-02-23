@@ -28,7 +28,23 @@
         "image_name": "Whiskey"
     },
     {
-        "alcohol_name": "Chocolate Liqueur",
-        "image_name": "Chocolate_Liqueur"
+        "alcohol_name": "Jager",
+        "image_name": "Jager"
+    },
+    {
+        "alcohol_name": "Brandy",
+        "image_name": "Brandy"
+    },
+    {
+        "alcohol_name": "Vermouth",
+        "image_name": "Vermouth"
+    },
+    {
+        "alcohol_name": "Schnapps",
+        "image_name": "Schnapps"
+    },
+    {
+        "alcohol_name": "Sambuca",
+        "image_name": "Sambuca"
     }
 ]
