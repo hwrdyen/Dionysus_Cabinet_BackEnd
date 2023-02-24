@@ -14,6 +14,6 @@ app.use(express.static("public"));
 
 app.use("/", Dionysus_Cabinet_API_Routes);
 
-app.listen(8080, function() {
-    console.log("Server is running on 8080");
+app.listen(PORT, function() {
+    console.log(`Server is running on ${PORT}`);
 })
