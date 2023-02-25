@@ -1,296 +1,254 @@
 [
     {
-      "id": "5bf7bd6c-2b16-4129-bddc-9d37ff8539e9",
+      "recipe_id": "5bf7bd6c-2b16-4129-bddc-9d37ff8539e9",
       "img_id": "5bf7bd6c-2b16-4129-bddc-9d37ff8539e9",
       "cocktail_name": "Moscow Mule",
       "cocktail_ingredients": "3/2 fluid ounces vodka; 1/2 fluid ounce lime juice; ice cubes; 1/2 cup ginger beer; 1 lime wedge for garnish",
-      "cocktail_included_alchohol": ["Vodka"],
+      "cocktail_included_alchohol": "Vodka",
       "cocktail_recipe_steps": "Pour vodka and lime juice into a mug; Add ice cubes and ginger beer; Stir to combine; Drop a lime wedge into the mug for garnish",
-      "represent_mood": ["Partay_Queen"],
-      "taste_preferences": [],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "Partay_Queen",
+      "taste_preferences": "",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "90ac3319-70d1-4a51-b91d-ba6c2464408c",
+      "recipe_id": "90ac3319-70d1-4a51-b91d-ba6c2464408c",
       "img_id": "90ac3319-70d1-4a51-b91d-ba6c2464408c",
       "cocktail_name": "Margarita",
       "cocktail_ingredients": "2 ounces blanco tequila; 1/2 ounce orange liqueur; 1 ounce freshly squeezed lime juice; 1/2 ounce agave syrup; Garnish: lime wheel; Garnish: kosher salt]",
-      "cocktail_included_alchohol": ["Vodka", "Tequila"],
+      "cocktail_included_alchohol": "Vodka, Tequila",
       "cocktail_recipe_steps": "Add tequila, orange liqueur, lime juice and agave syrup to a cocktail shaker filled with ice, and shake until well-chilled; Strain into a rocks glass over fresh ice; Garnish with a lime wheel and kosher salt rim (optional)",
-      "represent_mood": ["Partay_Queen"],
-      "taste_preferences": ["Sour"],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "Partay_Queen",
+      "taste_preferences": "Sour",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "bfc9bea7-66f1-44e9-879b-4d363a888eb4",
+      "recipe_id": "bfc9bea7-66f1-44e9-879b-4d363a888eb4",
       "img_id": "bfc9bea7-66f1-44e9-879b-4d363a888eb4",
       "cocktail_name": "Old Fashioned",
       "cocktail_ingredients": "2 ounces dark rum; 1 teaspoon allspice dram; 1 teaspoon demerara syrup; 2 dashes Angostura bitters; 2 dashes orange bitters; Garnish: orange twist",
-      "cocktail_included_alchohol": ["Rum"],
+      "cocktail_included_alchohol": "Rum",
       "cocktail_recipe_steps": "Place a large ice cube into an Old Fashioned glass; Add the rum, allspice dram, demerara syrup and both bitters, and stir until well-chilled; Garnish with an orange peel",
-      "represent_mood": ["After_Work"],
-      "taste_preferences": [],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "After_Work",
+      "taste_preferences": "",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "89898957-04ba-4bd0-9f5c-a7aea7447963",
+      "recipe_id": "89898957-04ba-4bd0-9f5c-a7aea7447963",
       "img_id": "89898957-04ba-4bd0-9f5c-a7aea7447963",
       "cocktail_name": "Vieux Carré",
       "cocktail_ingredients": "3/4 ounce George Dickel rye whiskey; 3/4 ounce cognac; 3/4 ounce sweet vermouth; 2 teaspoons Benedictine liqueur; 4 dashes Dale DeGroff’s pimento aromatic bitters; Garnish: maraschino cherry or lemon twist",
-      "cocktail_included_alchohol": ["Cognac"],
+      "cocktail_included_alchohol": "Cognac",
       "cocktail_recipe_steps": "Add the rye whiskey, cognac, sweet vermouth, Benedictine and bitters into a mixing glass with ice and stir until well-chilled; Strain into a rocks glass over fresh ice or a cocktail glass; Garnish with a cherry, a lemon twist or both",
-      "represent_mood": ["Surprise_Me"],
-      "taste_preferences": [],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "Surprise_Me",
+      "taste_preferences": "",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "ade0a47b-cee6-4693-b4cd-a7e6cb25f4b7",
+      "recipe_id": "ade0a47b-cee6-4693-b4cd-a7e6cb25f4b7",
       "img_id": "ade0a47b-cee6-4693-b4cd-a7e6cb25f4b7",
       "cocktail_name": "Pan American Clipper",
       "cocktail_ingredients": "2 ounces calvados or other apple brandy; 3/4 ounce lime juice, freshly squeezed; 1/2 ounce grenadine; 2 dashes absinthe; Garnish: lime wheel",
-      "cocktail_included_alchohol": ["Brandy"],
+      "cocktail_included_alchohol": "Brandy",
       "cocktail_recipe_steps": "Add all ingredients into a shaker with ice and shake until well-chilled; Strain into a chilled coupe glass",
-      "represent_mood": ["Partay_Queen"],
-      "taste_preferences": [],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "Partay_Queen",
+      "taste_preferences": "",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "bb1491eb-30e6-4728-a5fa-72f89feaf622",
+      "recipe_id": "bb1491eb-30e6-4728-a5fa-72f89feaf622",
       "img_id": "bb1491eb-30e6-4728-a5fa-72f89feaf622",
       "cocktail_name": "Absinthe Suisse",
       "cocktail_ingredients": "1 ounce St. George Spirits absinthe verte; 1/2 ounce Marie Brizard creme de menthe; 1/4 ounce Fortaleza blanco tequila; 1/4 ounce Pernod Ricard pastis; 3/4 ounce heavy cream; 3/4 ounce orgeat; 1/2 ounce lemon juice, freshly squeezed; 8 drops rose flower water; 1 egg white; 1 mint sprig; Club soda, to top; Garnish: mint sprig",
-      "cocktail_included_alchohol": ["Absinthe", "Tequila"],
+      "cocktail_included_alchohol": "Absinthe, Tequila",
       "cocktail_recipe_steps": "Add the absinthe, creme de menthe, tequila, pastis, heavy cream, orgeat, lemon juice, rose flower water, egg white and mint sprig into a shaker and dry-shake (without ice) vigorously; Add ice and shake again until well-chilled; Fine-strain into a Collins glass and allow to stand for a minute so the frothed egg white settles at the top of the drink; Using a straw or bar spoon handle, make a small hole in the middle of the froth and slowly pour the soda water into the glass; Garnish with a mint sprig",
-      "represent_mood": ["After_Work"],
-      "taste_preferences": [],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "After_Work",
+      "taste_preferences": "",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "150a36cf-f38e-4f59-8e31-39974207372d",
+      "recipe_id": "150a36cf-f38e-4f59-8e31-39974207372d",
       "img_id": "150a36cf-f38e-4f59-8e31-39974207372d",
       "cocktail_name": "Bensonhurst",
       "cocktail_ingredients": "2 ounces rye whiskey; 1 ounce dry vermouth; 2 teaspoons maraschino liqueur; 1 teaspoon Cynar",
-      "cocktail_included_alchohol": ["Whiskey", "Vermouth"],
+      "cocktail_included_alchohol": "Whiskey, Vermouth",
       "cocktail_recipe_steps": "Add all ingredients into a mixing glass with ice and stir until well-chilled; Strain into a chilled coupe or Nick & Nora glass",
-      "represent_mood": ["Blue_Monday"],
-      "taste_preferences": [],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "Blue_Monday",
+      "taste_preferences": "",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "5d7e0074-a9c1-11ed-afa1-0242ac120002",
+      "recipe_id": "5d7e0074-a9c1-11ed-afa1-0242ac120002",
       "img_id": "5d7e0074-a9c1-11ed-afa1-0242ac120002",
       "cocktail_name": "Fog Cutter",
       "cocktail_ingredients": "3/2 ounces light rum; 1 ounce cognac; 1/2 ounce London Dry gin; 2 ounces lemon juice, freshly squeezed; 1 ounce orange juice, freshly squeezed; 1/2 ounce orgeat; 1/2 ounce oloroso sherry; Garnish: mint sprig",
-      "cocktail_included_alchohol": ["Gin", "Rum"],
+      "cocktail_included_alchohol": "Gin, Rum",
       "cocktail_recipe_steps": "Add all ingredients except the sherry into a shaker with ice and shake until well-chilled; Strain into a chilled Collins glass filled with crushed ice, adding additional crushed ice if needed; Float the sherry on top; Garnish with a mint sprig",
-      "represent_mood": ["Surprise_Me"],
-      "taste_preferences": [],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "Surprise_Me",
+      "taste_preferences": "",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "67f110cc-a9c2-11ed-afa1-0242ac120002",
+      "recipe_id": "67f110cc-a9c2-11ed-afa1-0242ac120002",
       "img_id": "67f110cc-a9c2-11ed-afa1-0242ac120002",
       "cocktail_name": "Green Tea Shot",
       "cocktail_ingredients": "1/2 ounce Irish whiskey; 1/2 ounce peach schnapps; 1/2 ounce sweet-and-sour mix; Lemon-lime soda (such as 7Up or Sprite), to top",
-      "cocktail_included_alchohol": ["Whiskey"],
+      "cocktail_included_alchohol": "Whiskey",
       "cocktail_recipe_steps": "Add the whiskey, schnapps and sweet-and-sour mix into a shaker with ice and shake to chill; Strain into a shot glass; Top with a small splash of lemon-lime soda",
-      "represent_mood": ["First_Date"],
-      "taste_preferences": [],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "First_Date",
+      "taste_preferences": "",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "d6296fb4-2a90-41b9-b9f9-3dcf1ec4f32f",
+      "recipe_id": "d6296fb4-2a90-41b9-b9f9-3dcf1ec4f32f",
       "img_id": "d6296fb4-2a90-41b9-b9f9-3dcf1ec4f32f",
       "cocktail_name": "Negroni",
       "cocktail_ingredients": "1 ounce gin; 1 ounce Campari; 1 ounce sweet vermouth; Garnish: orange peel",
-      "cocktail_included_alchohol": ["Gin"],
+      "cocktail_included_alchohol": "Gin",
       "cocktail_recipe_steps": "Add the gin, Campari and sweet vermouth to a mixing glass filled with ice, and stir until well-chilled; Strain into a rocks glass over a large ice cube; Garnish with an orange peel",
-      "represent_mood": ["After_Work"],
-      "taste_preferences": ["Boozy"],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "After_Work",
+      "taste_preferences": "Boozy",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "4dbed176-d7b6-47e7-babb-5d17baba60f6",
+      "recipe_id": "4dbed176-d7b6-47e7-babb-5d17baba60f6",
       "img_id": "4dbed176-d7b6-47e7-babb-5d17baba60f6",
       "cocktail_name": "Sazerac",
       "cocktail_ingredients": "Absinthe; 1 sugar cube; 1/2 teaspoon cold water; 3 dashes Peychaud’s bitters; 2 dashes Angostura bitters; 1 1/4 ounces rye whiskey; 1 1/4 ounces cognac; Garnish: lemon peel",
-      "cocktail_included_alchohol": ["Absinthe", "Whiskey", "Cognac"],
+      "cocktail_included_alchohol": "Absinthe, Whiskey, Cognac",
       "cocktail_recipe_steps": "Rinse a chilled rocks glass with absinthe, discarding any excess, and set aside; In a mixing glass, muddle the sugar cube, water and the Peychaud’s and Angostura bitters; Add the rye and cognac, fill the mixing glass with ice and stir until well-chilled; Strain into the prepared glass; Twist the lemon peel over the drink’s surface to express the peel’s oils, then garnish with the peel",
-      "represent_mood": ["Partay_Queen"],
-      "taste_preferences": ["Boozy"],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "Partay_Queen",
+      "taste_preferences": "Boozy",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "fdd93f97-69e1-42bb-8575-be0c6b2d2075",
+      "recipe_id": "fdd93f97-69e1-42bb-8575-be0c6b2d2075",
       "img_id": "fdd93f97-69e1-42bb-8575-be0c6b2d2075",
       "cocktail_name": "Mai Tai",
       "cocktail_ingredients": "1 1/2 ounces white rum; 3/4 ounce orange curaçao; 3/4 ounce lime juice, freshly squeezed; 1/2 ounce orgeat; 1/2 ounce dark rum; Garnish: lime wheel; Garnish: mint sprig",
-      "cocktail_included_alchohol": ["Rum"],
+      "cocktail_included_alchohol": "Rum",
       "cocktail_recipe_steps": "Add the white rum, curaçao, lime juice and orgeat into a shaker with crushed ice and shake lightly (about 3 seconds); Pour into a double rocks glass; Float the dark rum over the top; Garnish with a lime wheel and mint sprig",
-      "represent_mood": ["After_Work"],
-      "taste_preferences": ["Sweet"],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "After_Work",
+      "taste_preferences": "Sweet",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "491f1940-198f-40ea-88fc-e99965c98e5d",
+      "recipe_id": "491f1940-198f-40ea-88fc-e99965c98e5d",
       "img_id": "491f1940-198f-40ea-88fc-e99965c98e5d",
       "cocktail_name": "Mudslide",
       "cocktail_ingredients": "1 ounce vodka; 1 ounce coffee liqueur; 1 ounce Baileys Irish cream; 1 1/2 ounces heavy cream; Garnish: chocolate shavings",
-      "cocktail_included_alchohol": ["Vodka"],
+      "cocktail_included_alchohol": "Vodka",
       "cocktail_recipe_steps": "Add the vodka, coffee liqueur, Baileys and cream to a shaker with ice and shake until well-chilled; Strain into a chilled fizz glass or coupe; Garnish with freshly shaved chocolate",
-      "represent_mood": ["Blue_Monday"],
-      "taste_preferences": ["Sweet"],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "Blue_Monday",
+      "taste_preferences": "Sweet",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "2dde7059-7edd-4fc6-849e-d80ae4c89e36",
+      "recipe_id": "2dde7059-7edd-4fc6-849e-d80ae4c89e36",
       "img_id": "2dde7059-7edd-4fc6-849e-d80ae4c89e36",
       "cocktail_name": "Zombie",
       "cocktail_ingredients": "1 1/2 ounces Jamaican rum; 1 1/2 ounces Puerto Rican gold rum; 1 ounce 151-proof demerara rum; 1/8 teaspoon Herbsaint or Pernod; 3/4 ounce lime juice, freshly squeezed; 1/2 ounce Donn’s mix; 1/2 ounce falernum; 1 teaspoon grenadine; 1 dash Angostura bitters; Garnish: mint sprig",
-      "cocktail_included_alchohol": ["Rum"],
+      "cocktail_included_alchohol": "Rum",
       "cocktail_recipe_steps": "Add the Jamaica rum, Puerto Rican gold rum, demerara rum, Herbsaint or Pernod, lime juice, Donn’s mix, falernum, grenadine and bitters into a blender, then add 6 ounces of crushed ice; Blend at high speed for no more than 5 seconds; Pour the contents into a tall glass or Tiki mug and add additional crushed ice to fill, if necessary; Garnish with a mint sprig",
-      "represent_mood": ["Surprise_Me"],
-      "taste_preferences": ["Sweet"],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "Surprise_Me",
+      "taste_preferences": "Sweet",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "2d855701-4e7c-4dca-8026-1ec6b9e51159",
+      "recipe_id": "2d855701-4e7c-4dca-8026-1ec6b9e51159",
       "img_id": "2d855701-4e7c-4dca-8026-1ec6b9e51159",
       "cocktail_name": "Gin Fizz",
       "cocktail_ingredients": "2 ounces gin; 1 ounce lemon juice, freshly squeezed; 3/4 ounce simple syrup; 1 egg white (about 1/2 ounce); Club soda, to top (about 1 ounce)",
-      "cocktail_included_alchohol": ["Gin"],
+      "cocktail_included_alchohol": "Gin",
       "cocktail_recipe_steps": "Add the gin, lemon juice, simple syrup and egg white to a shaker and vigorously dry-shake (without ice) for about 15 seconds; Add 3 or 4 ice cubes and shake vigorously until well-chilled; Double-strain into a chilled Collins glass and top with club soda",
-      "represent_mood": ["First_Date"],
-      "taste_preferences": ["Sour"],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "First_Date",
+      "taste_preferences": "Sour",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "fc40aa99-317f-4f4f-82b6-bb264ce6f884",
+      "recipe_id": "fc40aa99-317f-4f4f-82b6-bb264ce6f884",
       "img_id": "fc40aa99-317f-4f4f-82b6-bb264ce6f884",
       "cocktail_name": "Paper Plane",
       "cocktail_ingredients": "3/4 ounce bourbon; 3/4 ounce Aperol; 3/4 ounce Amaro Nonino Quintessentia; 3/4 ounce lemon juice, freshly squeezed",
-      "cocktail_included_alchohol": ["Gin"],
+      "cocktail_included_alchohol": "Gin",
       "cocktail_recipe_steps": "Add the bourbon, Aperol, Amaro Nonino and lemon juice into a shaker with ice and shake until well-chilled; Strain into a coupe glass",
-      "represent_mood": ["Partay_Queen"],
-      "taste_preferences": ["Bitter"],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "Partay_Queen",
+      "taste_preferences": "Bitter",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "2b229f53-8eb0-46e3-80d3-e6913bc23297",
+      "recipe_id": "2b229f53-8eb0-46e3-80d3-e6913bc23297",
       "img_id": "2b229f53-8eb0-46e3-80d3-e6913bc23297",
       "cocktail_name": "Sake Mary",
       "cocktail_ingredients": "60ml sake; 30ml vodka; 90ml green tomato juice; 1.5gm wasabi; 3ml soy sauce; 2 jalapenos",
-      "cocktail_included_alchohol": ["Vodka"],
+      "cocktail_included_alchohol": "Vodka",
       "cocktail_recipe_steps": "Shake tomato juice, wasabi and jalapeno with ice; Strain the mixture into a mixing glass then add sake and soy sauce and stir with ice; Strain and serve over ice in a rock glass; Garnish with half a cherry tomato",
-      "represent_mood": ["First_Date"],
-      "taste_preferences": ["Umami"],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "First_Date",
+      "taste_preferences": "Umami",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "d42c9b19-8d3b-473d-a9f3-2ec21e6c402d",
+      "recipe_id": "d42c9b19-8d3b-473d-a9f3-2ec21e6c402d",
       "img_id": "d42c9b19-8d3b-473d-a9f3-2ec21e6c402d",
       "cocktail_name": "Palomita",
       "cocktail_ingredients": "2 ounces vodka; 1/2 ounce lime juice, freshly squeezed; Jarritos grapefruit soda, chilled, to top; Garnish: vanilla-flecked salt rim; Garnish: lemon twist",
-      "cocktail_included_alchohol": ["Vodka"],
+      "cocktail_included_alchohol": "Vodka",
       "cocktail_recipe_steps": "Rim a Collins glass with vanilla-flecked salt; Add the vodka and lime juice to a shaker with ice and shake; Strain into the prepared glass over fresh ice; Top with the soda; Garnish with a lemon twist",
-      "represent_mood": ["Blue_Monday"],
-      "taste_preferences": ["Salty"],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "Blue_Monday",
+      "taste_preferences": "Salty",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "94386ac9-83ef-4470-9a91-121bfb2f3ef9",
+      "recipe_id": "94386ac9-83ef-4470-9a91-121bfb2f3ef9",
       "img_id": "94386ac9-83ef-4470-9a91-121bfb2f3ef9",
       "cocktail_name": "Jager Bomb",
       "cocktail_ingredients": "1-8.4 ounce can energy drink, such as Red Bull; 1 1/2 ounces Jägermeister",
-      "cocktail_included_alchohol": ["Jager"],
+      "cocktail_included_alchohol": "Jager",
       "cocktail_recipe_steps": "Pour the energy drink into a pint glass; Pour the Jägermeister into a shot glass; Drop the shot glass filled with Jägermeister into the pint glass and drink immediately",
-      "represent_mood": ["After_Work"],
-      "taste_preferences": ["Sweet"],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "After_Work",
+      "taste_preferences": "Sweet",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "1468b2fa-ea26-4744-b366-4afb0e71d4e2",
+      "recipe_id": "1468b2fa-ea26-4744-b366-4afb0e71d4e2",
       "img_id": "1468b2fa-ea26-4744-b366-4afb0e71d4e2",
       "cocktail_name": "Peach Me",
       "cocktail_ingredients": "1 Luxardo maraschino cherry; 1 orange slice; 3 dashes Angostura orange bitters; 2 1/2 ounces Woodford Reserve bourbon; 1/2 ounce peach schnapps; Garnish: orange slice",
-      "cocktail_included_alchohol": ["Schnapps"],
+      "cocktail_included_alchohol": "Schnapps",
       "cocktail_recipe_steps": "Muddle the cherry, orange slice and bitters in a mixing glass; Add the bourbon, peach schnapps and ice and stir until well-chilled; Strain into a rocks glass over a large ice cube; Garnish with an orange slice",
-      "represent_mood": ["Surprise_Me"],
-      "taste_preferences": [],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "Surprise_Me",
+      "taste_preferences": "",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     },
     {
-      "id": "03db2700-e677-455a-9de2-e153e14d4e82",
+      "recipe_id": "03db2700-e677-455a-9de2-e153e14d4e82",
       "img_id": "03db2700-e677-455a-9de2-e153e14d4e82",
       "cocktail_name": "Anaïs Nin",
       "cocktail_ingredients": "1 ounce creme de banane liqueur (such as Giffard); 1 ounce sambuca; 1 ounce half-and-half; 3-4 ounces coffee (iced or hot); Garnish: whipped cream; Garnish: drizzle of sambuca",
-      "cocktail_included_alchohol": ["Sambuca"],
+      "cocktail_included_alchohol": "Sambuca",
       "cocktail_recipe_steps": "Add all ingredients except the coffee into a shaker with ice and shake until well-chilled; Strain into a pint glass over fresh ice; Top with the coffee; Garnish with whipped cream and a drizzle of sambuca",
-      "represent_mood": ["First_Date"],
-      "taste_preferences": ["Sweet"],
-      "cocktail_recipe_author": {
-        "name": "Dionysus Cabinet",
-        "email": ""
-      }
+      "represent_mood": "First_Date",
+      "taste_preferences": "Sweet",
+      "cocktail_recipe_author_name": "Dionysus Cabinet",
+      "cocktail_recipe_author_email": ""
     }
   ]
